@@ -6,5 +6,6 @@ package com.example.demo;
 public class Test {
 	public void show() {
 		System.out.println("第一版本");
+		System.out.println("更新");
 	}
 }
